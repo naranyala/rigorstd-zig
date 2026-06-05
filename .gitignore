@@ -1,0 +1,19 @@
+# Zig build artifacts
+zig-out/
+zig-cache/
+
+# Environment variables
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
